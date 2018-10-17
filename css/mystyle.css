@@ -1,0 +1,480 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.header{
+	background-color:black;
+	overflow:hidden;
+	position:relative;
+}
+.nav{
+	padding:6px;
+}
+.nav i{
+	margin-bottom: 8px;
+}
+.nav li{
+	list-style-type:none;
+	display:inline;
+	margin-top: 5px;
+}
+.nav li{
+	padding:5px;
+}
+.nav a{
+	padding:5px;
+	color:white;
+}
+.nav li a{
+	text-decoration:none;
+}
+i{
+	display:inline;
+	color: white;
+}
+.header1{
+	background-color: gray;
+	padding: 10px;
+	overflow: hidden;
+	}
+
+.header1 select{
+	background-color:violet;
+	color:white;
+	padding: 7px;
+	margin-left: 230px;
+}
+.header1 input[type=text]{
+	padding: 7px;
+	width:380px;
+}
+
+.akshay {
+	 float: left; 
+    margin-top: 40px;
+    margin-left: 10px;
+ }
+
+.bio{
+	float: left;
+	background-color: lightgray;
+	margin-top: 40px;
+	margin-left: 15px;
+	width: 800px;
+	height: 457px;
+}
+.name{
+	margin-top: 10px;
+	margin-left: 20px;
+
+}
+.age{
+	font-size:25px;
+	margin-left: 20px;
+	margin-top: 10px;
+}
+.horizontal hr{
+	width:800px;
+	margin-left: 0;
+	margin-top: 5px;
+}
+
+.list1 ul{
+	list-style-type: none;
+	margin-left: 18px;
+	margin-top: 20px; 
+}
+.list1 li{
+	font-weight:bold;
+}
+.list2 ul{
+	list-style-type: none;
+	margin-left: 18px;
+	margin-top: 20px; 
+}
+.list2 li{
+	font-size: 17px;
+}
+.list3 ul{
+	list-style-type: none;
+	margin-left: 33px;
+	margin-top: 20px; 
+}
+.list3 li{
+	font-weight: bold;
+}
+.list4 ul{
+	list-style-type: none;
+	margin-left: 18px;
+	margin-top: 20px; 
+}
+.list4 li{
+	font-size: 17px;
+}
+
+.vertical vl{
+	height: 190px;
+	margin-left: 96px;
+
+}
+
+.list5 ul{
+	list-style-type: none;
+	margin-left: 10px;
+	margin-top: 20px; 
+}
+.list5 li{
+	font-size:17px;
+}
+.list6 ul{
+	list-style-type: none;
+	margin-left: 70px;
+	margin-top: 20px; 
+}
+.list6 li{
+	font-size: 17px;
+}
+.list7 ul{
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 20px; 
+}
+.list7 li{
+	font-size: 17px;
+}
+.list8 ul{
+	list-style-type: none;
+	margin-left: 40px;
+	margin-top: 20px; 
+}
+.list8 li{
+	font-size: 17px;
+}
+
+.para1 p{
+	float: left;
+	font-size: 18px;
+	margin-top: 25px;
+	margin-left: 18px;	
+}
+
+.para2 p{
+	float: left;
+	margin-left: 100px;
+	font-size: 13px;
+	}
+
+.verified{
+	float: left;
+	background-color: lightgray;
+	margin-top: 40px;
+    margin-left: 5px;
+    width:180px;
+    height:457px;
+}
+.verified i{
+	color: green;
+	margin-top: 10px;
+	margin-left: 75px;
+}
+.pa1{
+	margin-top: 7px;
+	margin-left: 70px;
+}
+.pa2{
+	margin-top: 7px;
+	margin-left: 60px; 
+}
+.hr1{
+	margin-top: 12px;
+}
+.pa3{
+	margin-top: 12px;
+	margin-left:75px; 
+}
+.star i{
+	color: yellow;
+	margin-top: 10px;
+	margin-left: 5px;
+}
+.pa4{
+	margin-top: 13px;
+	margin-left: 42px;
+}
+.pa5{
+	margin-top: 10px;
+	margin-left: 82px;
+}
+.pa6{
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.pa7{
+	margin-top: 10px;
+	margin-left: 85px;
+}
+.pa8{
+	margin-top: 10px;
+	margin-left: 40px;
+}
+.pa9{
+	margin-top: 10px;
+	margin-left: 85px;
+}
+
+.know{
+	float: left;
+	background-color: lightgray;
+	width: 340px;
+	height: 700px;
+    margin-top: 10px;
+    margin-left: 10px;
+
+}
+.head h3{
+	padding-top: 20px;
+	margin-left: 75px;
+}
+.actor select{
+	background-color:violet;
+	color:white;
+	padding: 10px;
+	width:220px;
+	margin-top: 10px;
+	margin-left: 55px;
+}
+.know p{
+	margin-top: 5px;
+	margin-left: 95px;
+	font-size: 13px;
+}
+.head1 h4{
+	margin-top: 30px;
+	margin-left: 5px;
+}
+
+.orderlist ol {
+	background-color:white;
+	padding: 5px 20px;
+	margin-left: 5px;
+	margin-right: 5px;
+	margin-top: 5px;
+}
+.orderlist ol{
+	 font-family:Times New Roman;
+}
+.myportfolio{
+	float: left;
+	background-color: lightgray;
+	width: 983px;
+	height: 700px;
+	margin-top: 10px;
+	margin-left: 5px;
+
+}
+.port h2{
+	padding: 15px 0;
+	margin-left: 440px;
+}
+.portioicon i
+{
+     color: black;
+    padding-right: 40px;
+}
+.img1{
+	float: left;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.img2{
+	float: left;
+	margin-top: 10px;
+	margin-left: 10px;
+}
+.img3{
+	float: right;
+	margin-right: 50px;
+	margin-top: 20px;
+}
+
+
+.add{
+	float: left;
+	background-color: gray;
+	width: 1330px;
+	height: 150px;
+	margin-top: 5px;
+	margin-left: 10px;
+	text-align: center;
+}
+.add p{
+	font-size: 25px;
+	color: white;
+	margin-top: 65px;
+}
+.pro{
+	float: left;
+	font-size: 20px;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-left: 10px;
+}
+.similar{
+	float: left;
+	background-color: gray;
+	width:1330px;
+	height: 220px; 
+	margin-left: 10px;
+}
+.empty{
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty1{
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty2{
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty3{ 
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty4{
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty5{ 
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+.empty6{
+	float: left;
+	background-color: white;
+	border:2px solid violet;
+	width: 155px;
+	height: 200px;
+	margin: 10px;
+}
+
+
+.footer{
+	float: left;
+	background-color: black;
+	margin-top: 130px;
+	width: 100%;
+    position:relative;
+}
+.nav1{
+	padding:0;
+}
+
+.nav1 li{
+	list-style-type:none;
+	display:inline;
+	font-size: 11px;
+}
+.nav1 li{
+	padding: 3px;
+	margin-top: 0px;
+}
+.nav1 a{
+	padding:5px;
+	color:white;
+}
+.nav1 li a{
+	text-decoration:none;
+}
+.footer2 {
+    float: left;
+	background-color: black;
+	overflow: hidden;
+	width: 100%;
+}
+.castle hr{
+    width: 582px;
+    color: violet;
+}
+.castle img{
+    float: left;
+}
+.icons{
+	float: left;
+	background-color: black;
+	width: 100%;
+}
+.icons  li{
+	list-style-type: none;
+	display: inline;
+	margin-left: 5px;
+}
+
+.icons ul{
+	margin-left: 600px;
+}
+.para{
+	float: left;
+	background-color: black;
+	width: 100%;
+	text-align: center;
+	color: white;
+	font-size:10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
